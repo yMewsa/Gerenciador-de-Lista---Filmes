@@ -1,0 +1,46 @@
+{
+    "romance":[
+        {
+            "titulo":"Diario de uma Paixão",
+            "ano": 2004
+        },
+        {
+            "titulo": "Como Eu Era Antes de Você",
+            "ano": 2016
+        },
+        {
+            "titulo": "Todos Menos Você",
+            "ano": 2023
+        },
+        {
+            "titulo": "É Assim que Acaba",
+            "ano": 2024
+        },
+        {
+            "titulo": "O Fabricante de Lágrimas",
+            "ano": 2024
+        }
+    ],
+    "terror":[
+        {
+            "titulo": "Imaculada",
+            "ano": 2024
+        },
+        {
+            "titulo": "Longles",
+            "ano": 2024
+        },
+        {
+            "titulo": "A Hora do Mal",
+            "ano":2025
+        },
+        {
+            "titulo": "Corra!",
+            "ano":2017
+        },
+        {
+            "titulo": "Terrifier",
+            "ano":2016
+        }
+    ]
+}
